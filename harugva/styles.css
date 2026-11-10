@@ -214,7 +214,7 @@ h1 .accent {
 }
 
 .lead {
-  font-size: clamp(17px, 1.6vw, 19px);
+  font-size: 40px;
   color: #4b5260;
   max-width: 520px;
   margin: 0 0 32px;
