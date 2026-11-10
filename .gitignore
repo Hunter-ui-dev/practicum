@@ -1,0 +1,47 @@
+# ---------- Windows ----------
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---------- VS Code ----------
+.vscode/
+*.code-workspace
+.history/
+
+# ---------- Vim / Neovim ----------
+*.swp
+*.swo
+*.swn
+*~
+.*.un~
+Session.vim
+Sessionx.vim
+.netrwhist
+tags
+.vim/
+.nvim/
+.nvimlog
+
+# ---------- JetBrains (WebStorm, etc.) ----------
+.idea/
+
+# ---------- Local env / logs ----------
+.env
+.env.local
+*.log
